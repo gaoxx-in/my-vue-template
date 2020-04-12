@@ -1,4 +1,4 @@
-# my-web-frame
+# my-web-template
 
 ## Project setup
 ```
